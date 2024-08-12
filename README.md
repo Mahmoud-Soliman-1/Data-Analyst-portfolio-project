@@ -24,6 +24,6 @@
 🗺️ Percent of Population Infected per Country <br>
 📈 Population Infected Percentage for Selected Countries <br> <br> 
 
-### Dashboard Link: https://public.tableau.com/app/profile/mahmoud.el.meligy/viz/Covid-19Dashboard_17231598413180/Dashboard1?publish=yes
+### Dashboard Link:  https://shorturl.at/lXrIo
 
 
